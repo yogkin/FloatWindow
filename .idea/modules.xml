@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FixedFloatWindow.iml" filepath="$PROJECT_DIR$/FixedFloatWindow.iml" />
+      <module fileurl="file://D:\GitProjects\FloatWindow\FixedFloatWindow.iml" filepath="D:\GitProjects\FloatWindow\FixedFloatWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FloatWindow.iml" filepath="$PROJECT_DIR$/.idea/FloatWindow.iml" />
       <module fileurl="file://C:\Users\yhao\AndroidStudioProjects\FixedFloatWindow\sample\app.iml" filepath="C:\Users\yhao\AndroidStudioProjects\FixedFloatWindow\sample\app.iml" />
       <module fileurl="file://C:\Users\yhao\AndroidStudioProjects\FixedFloatWindow\floatwindow\fixedfloatwindow.iml" filepath="C:\Users\yhao\AndroidStudioProjects\FixedFloatWindow\floatwindow\fixedfloatwindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/floatwindow/floatwindow.iml" filepath="$PROJECT_DIR$/floatwindow/floatwindow.iml" />
+      <module fileurl="file://D:\GitProjects\FloatWindow\floatwindow\floatwindow.iml" filepath="D:\GitProjects\FloatWindow\floatwindow\floatwindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://D:\GitProjects\FloatWindow\sample\sample.iml" filepath="D:\GitProjects\FloatWindow\sample\sample.iml" />
     </modules>
   </component>
 </project>
